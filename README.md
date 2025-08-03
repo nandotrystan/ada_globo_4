@@ -7,8 +7,7 @@ Este projeto visa aplicar conexão, criação, insert e consultas em um banco my
 - Gerar relatórios ordenados com base em diferentes métricas de engajamento.
 
 ## 👥 Integrantes
-- Pierre  
-- Maria  
+- Pierre
 - Beatriz  
 - Nando  
 
