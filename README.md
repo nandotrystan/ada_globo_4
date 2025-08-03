@@ -28,7 +28,7 @@ python main.py
 
 ## 🗃️ Estrutura de Diretórios
 - `database/`: acesso e inserção dos dados no MySQL.
-- `entidades`: implementação das classes que compõe o fluxo(plataforma, conteúdo, interação e usuário).
+- `entidades/`: implementação das classes que compõe o fluxo(plataforma, conteúdo, interação e usuário).
 - `análise/`: geração dos relatórios.
 - `analise/sistema.py`: orquestra o fluxo de leitura, processamento e análise.
 
